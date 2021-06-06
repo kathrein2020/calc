@@ -20,7 +20,7 @@ public class Calc {
         return scanner.nextInt();
     }
         public static char getOperation() {
-        System.out.println("Пожалуйста, введите матеатическое действие (+,-,* или /):");
+        System.out.println("Пожалуйста, введите матеаическое действие (+,-,* или /):");
             System.out.println("Пожалуйста, введите матеатическое действие (+,-,* или /):");
         Scanner scanner = new Scanner(System.in);
         return scanner.next().charAt(0);
