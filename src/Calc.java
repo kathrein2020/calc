@@ -15,7 +15,7 @@ public class Calc {
         return scanner.nextInt();
     }
         public static int getSecondOperand() {
-        System.out.println("Пожалуйста, введите второй целочисленный операнд:");
+        System.out.println("Пожалhgjgуйста, введите второй целочисленный операнд:");
         Scanner scanner = new Scanner(System.in);
         return scanner.nextInt();
     }
